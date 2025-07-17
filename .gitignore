@@ -1,0 +1,21 @@
+# Python
+*.pyc
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+.coverage
+.venv/
+venv/
+env/
+*/venv/
+*/env/
+
+# PyCharm specific
+.idea/
+*.iml
+.DS_Store # macOS system files
+
+# OS generated files
+.Trashes
+Thumbs.db
